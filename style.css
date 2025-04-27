@@ -1,0 +1,38 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #DCE2C8;
+}
+
+h1 {
+    background-color: #F8BB8C;
+    padding: 5px;
+}
+
+h2 {
+    background-color: #e2a592;
+    padding: 3px;
+}
+
+p {
+    background-color: #A8DCD1;
+    padding: 5px;
+}
+
+img {
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+
+ul,
+ol,
+li,
+a {
+    background-color: #B4EEF9;
+}
+
+li {
+    border: 1px dashed #011638;
+    padding: 4px;
+    margin: 6px;
+}
